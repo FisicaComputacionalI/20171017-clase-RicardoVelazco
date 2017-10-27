@@ -1,4 +1,4 @@
-//Programa que calcula la sumas de nùmeros impares del 1 al 10 
+//Programa que calcula la sumas de nùmeros pares del 1 al 10 
 //Ricardo Alfonso Velazco Castillo
 //17 de Octubre de 2017
 //el resultado es 110
